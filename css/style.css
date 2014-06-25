@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #212121;
+}
+
+a {
+	display: block;
+	margin-bottom: 20px;
+	color: #ffffff;
+}
+
+canvas {
+	display: block;
+	margin: 0;
+}
+
+#btn
+{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #0F0;
+	top: 250px;
+	left: 50px;
+
+}
